@@ -417,7 +417,7 @@ export const projects = [
     date: "Sep 2024",
     description:
       "Habit Tracker App is a user-friendly mobile application that allows users to create, manage, and track their daily habits. It is designed to help users form positive habits by providing features like habit management, reminders, progress tracking, and visualizations of habit performance. The app is built using Flutter, ensuring compatibility across both iOS and Android platforms.",
-    image: "src/images/HabitTracker.png",
+    image: "https://github.com/ManojTammineedi/Manoj_portfolio/blob/main/src/images/HabitTracker.png",
     tags: ["Flutter", "Firebase", "Figma", "Provider", "HiveDB"],
     category: "android app",
     github: "https://github.com/ManojTammineedi/HabitTracker",
@@ -430,7 +430,7 @@ export const projects = [
     date: "Jun 2024",
     description:
       "Built a scalable MERN stack blogging platform, enabling efficient CRUD operations with a user-friendly interface. Integrated secure authentication and session management to ensure data safety and real-time updates. Optimized database queries for enhanced performance, enabling the platform to handle high-traffic loads effectively.",
-    image: "src/images/Blogging_Mern.png",
+    image: "https://github.com/ManojTammineedi/Manoj_portfolio/blob/main/src/images/Blogging_Mern.png",
     tags: ["React", "NodeJs", "ExpressJs", "MongoDB"],
     category: "web app",
     github: "",
@@ -443,7 +443,7 @@ export const projects = [
     date: "Jul 2024",
     description:
       "Developed a robust blogging platform using Next.js, enabling efficient CRUD operations while delivering a seamless user experience. Implemented secure authentication and session management to protect user data and support real-time updates. Optimized backend performance to handle high-traffic loads effectively, ensuring scalability and reliability.",
-    image: "/Users/manoj/Downloads/ManojTammineedi_Portfolio/src/images/Blog_Next.png",
+    image: "https://github.com/ManojTammineedi/Manoj_portfolio/blob/main/src/images/Blog_Next.png",
     tags: ["NextJs", "NodeJs", "ExpressJs", "MongoDB", "Google Auth"],
     category: "web app",
     github: "",
